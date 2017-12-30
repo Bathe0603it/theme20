@@ -1,0 +1,143 @@
+@media screen and (max-width: 20000px) and (min-width: 1100px){
+	
+}
+
+@media only screen and (max-width: 1024px) {
+	.main-header .titleHead{ height: 30px; }
+	.menuTop ul li{ padding: 0 40px;background: url(../images/thai-cuc.png) 10px no-repeat; }
+	.boxAside .title_h2{ font-size: 13px; }
+	.main-header .logo img{ width: 125px; }
+
+	.myinput{ padding: 4px 1px; }
+	.btn_xemngay{  }
+}
+ 
+@media only screen and (max-width: 980px) {
+	.main-header .logo{ top: 0px;left: 10px; }
+	.boxAside .title_h2{ font-size: 13px; }
+	.boxAside .title_h2{ height: 46.5px;margin-left: 0px;line-height: 44px;margin-bottom: 12px; }
+	.boxAside{ border: 1px solid #fff;margin-bottom: 18px;padding-bottom: 12px; }
+	.boxAside .asideBody{ margin-left: 0px;padding: 8px; }
+}
+ 
+@media only screen and (max-width: 800px) {
+	.menuTop ul li{ padding: 0 0px 0px 24px;font-size: 12px;margin-right: 24px;background-position: 0px center; }
+}
+ 
+@media only screen and (max-width: 780px) {
+	
+}
+ 
+/*Ipad dọc(768 x 1024)*/
+@media only screen and (max-width: 768px) {
+	
+
+}
+ 
+@media only screen and (max-width: 720px) {
+	
+}
+
+@media only screen and (max-width: 668px) {
+	.menuTop ul li{ margin-right: 16px; }
+	.main-header .titleHead{ height: 25px; }
+	.headPositionButton{ text-align: center; }
+}
+ 
+@media only screen and (max-width: 640px) {
+	.main-header .titleHead{ height: 23px; }
+	.menuTop ul li{ padding: 0 0px 0px 24px; }
+	.menuTop ul li{ margin-right: 5px; }
+	.boxForm .bodyForm .title_label{ text-align: left; }
+	.buttonOrderSim, .btnMuaHang{ padding: 10px 3px;font-size: 9px; }
+
+	.boxFormSim{ width: 100%; }
+}
+ 
+@media only screen and (max-width: 600px) {
+	
+}
+ 
+@media only screen and (max-width: 568px) {
+	.menuTop{ display: none; }
+	.hiddenDesktop{ display: block; }
+	.tableSim .tableHead{ display: none; }
+	.tableSim:before{ display: none; }
+	.main-header .logo img { width: 90px; }
+
+	.tableSim .tableBody tr{  }
+	.tableSim .tableBody tr td:nth-child(1){ display: none; }
+	.tableSim .tableBody tr td:nth-child(2){ width: 30%; }
+	.tableSim .tableBody tr td:nth-child(3){ width: 100%;float: left;padding-bottom: 0px; }
+	.tableSim .tableBody tr td:nth-child(4){ width: 100%;float: left; }
+	.tableSim .tableBody tr td:nth-child(5){ display: none; }
+	.table-bordered .tableBody tr>th, .table-bordered .tableBody tr>th, .table-bordered .tableBody tr>th, .table-bordered .tableBody tr>td, .table-bordered .tableBody tr>td, .table-bordered .tableBody tr>td{ border: none !important; }
+	.tableSim .tableBody tr{ border-bottom: 1px dashed #c4c4c4; }
+	.buttonOrderSim, .btnMuaHang{ font-size: 10px; }
+}
+ 
+@media only screen and (max-width: 563px) {
+
+}
+ 
+@media only screen and (max-width: 549px) {
+ 
+}
+ 
+@media only screen and (max-width: 534px) {
+	
+}
+
+/*Tablet nhỏ(480 x 640)*/
+@media only screen and (max-width: 480px) {
+	.tableSim .tableBody tr td:nth-child(3){ text-align: left; }
+	.tableSim .tableBody tr td:nth-child(4){ text-align: left; }
+	.boxAside .title_h2:after{ right: -22px; }
+	.menuFooter{ background: #310202; }
+	.main-header .titleHead{ height: 18px; }
+}
+
+/*Iphone(480 x 640)*/
+@media only screen and (max-width: 435px) {
+	.tableSim .tableBody tr td:nth-child(2){ width: 40%; }
+	.simHopMenhTraCuu .boxListProductTop{ padding: 0px; }
+}
+
+/*Iphone(480 x 640)*/
+@media only screen and (max-width: 411px) {
+	.tableSim .tableBody tr td:nth-child(2){ width: 40%; }
+}
+
+/*Iphone6(480 x 640)*/
+@media only screen and (max-width: 375px) {
+	.boxListAge .box{ width: 33.33333333%; }
+	.main-header .titleHead{ height: 10px; }
+}
+
+@media only screen and (max-width: 360px) {
+	.menuFooter ul li{ margin-bottom: 14px; }
+	.main-header .titleHead{ height: 10px; }
+	.main-header .logo img{ width: 70px; }
+}
+ 
+@media only screen and (max-width: 338px) {
+	
+}
+ 
+@media only screen and (max-width: 330px) {
+
+}
+
+/*Smart phone nhỏ iphone5*/
+@media only screen and (max-width: 320px) {
+	.buttonOrderSim, .btnMuaHang{ font-size: 8px; }
+}
+
+@media only screen and (max-width: 306px) {
+	
+}
+
+/*Smart phone nhỏ*/
+@media only screen and (max-width: 240px) {
+	
+}
